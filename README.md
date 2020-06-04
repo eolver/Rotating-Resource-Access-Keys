@@ -6,7 +6,7 @@ In this example I will be rotating a storage account key, storing in a keyvault 
 
 1. Create a storage account
 2. create a KeyVault
-3. Create a keyvault (with MSI on)
+3. Create a Function App (with MSI on)
 4. Create a Automation Account
 5. add the objectID of the function app to the keyvault to get secrets
 6. Install az modules (az.accounts, az.storage, az.websites) from gallery on automation account
