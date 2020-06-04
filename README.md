@@ -16,7 +16,7 @@ In this example I will be rotating a storage account key, storing in a keyvault 
 10. Test that the rotation is working
 
 
-Understand the sequence/order of the Powerscript and what it does
+Understand the sequence/order of the PowerShell script and what it does
 
 1.	set secondary key as new secret
 2.	update appconfig with new secret uri (with secondary key)
