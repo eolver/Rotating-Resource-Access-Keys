@@ -16,4 +16,12 @@ In this example I will be rotating a storage account key, storing in a keyvault 
 10. Test that the rotation is working
 
 
+Understand the sequence/order of the Powerscript and what it does
 
+1.	set secondary key as new secret
+2.	update appconfig with new secret uri (with secondary key)
+3.	refresh primary key
+4.	set new primary key as secret
+5.	update appconfig to new secret uri (with new primary key)
+6.	refresh secondary key 
+7.	repeat steps 1 - 6
