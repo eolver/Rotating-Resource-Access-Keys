@@ -25,3 +25,6 @@ Understand the sequence/order of the PowerShell script and what it does
 5.	update appconfig to new secret uri (with new primary key)
 6.	refresh secondary key 
 7.	repeat steps 1 - 6
+
+
+![Automation](https://etsaustorage.blob.core.windows.net/$web/images/github/SAS-Rotation.jpg)
