@@ -27,4 +27,4 @@ Understand the sequence/order of the PowerShell script and what it does
 7.	repeat steps 1 - 6
 
 
-![Automation](https://etsaustorage.blob.core.windows.net/$web/images/github/SAS-Rotation.jpg)
+![Automation](https://www.etsolutionsau.com/images//github/SAS-Rotation.jpg)
